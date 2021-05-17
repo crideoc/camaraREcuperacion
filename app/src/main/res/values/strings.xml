@@ -1,0 +1,23 @@
+<resources>
+    //nombre de la aplicacion
+    <string name="app_name">camara</string>
+
+    //botones
+
+    <string name="btn_camara">camara</string>
+    <string name="btn_mostrar">Mostrar fotos</string>
+    <string name="btn_radar">Radar</string>
+    <string name="btn_hacer_foto">Hacer foto</string>
+    <string name="btn_guardar">Guardar</string>
+
+    //switch
+    <string name="btn_OnOff">Encendido/Apagado</string>
+
+
+    //textos
+    <string name="comentario">Comentario</string>
+    <string name="distancia">Distancia</string>
+    <string name="distanciaMostrar"></string>
+
+
+</resources>
